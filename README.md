@@ -8,3 +8,4 @@ https://cvdl.cupoy.com/
 * [Day004_geometric_transform_HW.ipynb](homework/Day004_geometric_transform_HW.ipynb)
 * [Day005_draw_HW.ipynb](homework/Day005_draw_HW.ipynb)
 * [Day006_affine_HW.ipynb](homework/Day006_affine_HW.ipynb)
+* [Day007_Sample.ipynb](homework/Day007_Sample.ipynb)
