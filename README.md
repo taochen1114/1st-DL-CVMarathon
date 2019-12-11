@@ -7,3 +7,4 @@ https://cvdl.cupoy.com/
 * [Day003_color_spave_op_HW.ipynb](homework/Day003_color_spave_op_HW.ipynb)
 * [Day004_geometric_transform_HW.ipynb](homework/Day004_geometric_transform_HW.ipynb)
 * [Day005_draw_HW.ipynb](homework/Day005_draw_HW.ipynb)
+* [Day006_affine_HW.ipynb](homework/Day006_affine_HW.ipynb)
