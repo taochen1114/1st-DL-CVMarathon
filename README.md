@@ -9,3 +9,4 @@ https://cvdl.cupoy.com/
 * [Day005_draw_HW.ipynb](homework/Day005_draw_HW.ipynb)
 * [Day006_affine_HW.ipynb](homework/Day006_affine_HW.ipynb)
 * [Day007_Sample.ipynb](homework/Day007_Sample.ipynb)
+* [Day008_sobel_gaussian_blur_HW.ipynb](homework/Day008_sobel_gaussian_blur_HW.ipynb)
